@@ -1,0 +1,12 @@
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.example</groupId>
+                <artifactId>powerMockPlugin</artifactId>
+                <version>1.0-SNAPSHOT</version>
+                <configuration>
+                    <directory>${basedir}</directory>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
